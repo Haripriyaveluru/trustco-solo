@@ -1,1 +1,1 @@
-"# Trustco Solo Project" - Haripriya 
+"# Trustco Solo Project" 
